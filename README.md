@@ -19,3 +19,12 @@ O objetivo foi apresentar os pacotes essenciais do Tidyverse para a manipulaçã
 - Manipulação e sumarização de dados usando **dplyr**
 
 ---
+
+## Autores
+
+**Coordenador:**
+Rafael Erbisti
+
+**Alunos:**
+- Gabriel Gonçalves
+- Ana Li
